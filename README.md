@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Raphael Ferreira.
-- 👀 I’m interested in vagas como estagiario de front end ou dev's junior
+
 - 🌱 Estudando Vue.js
 
 <div align="center">
